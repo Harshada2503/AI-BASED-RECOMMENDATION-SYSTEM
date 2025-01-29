@@ -52,5 +52,7 @@ Maven or Gradle – For dependency management.
 
 4. Data Sources: Sample datasets (e.g., MovieLens dataset for movie recommendations or e-commerce product ratings).
 
+#OUTPUT OF THE TASK 
 
+![Image](https://github.com/user-attachments/assets/4d346c08-cf6f-48fc-87de-c4e0ce834cac)
  
